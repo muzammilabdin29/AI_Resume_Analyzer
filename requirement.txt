@@ -1,0 +1,10 @@
+streamlit==1.18.1
+pdfplumber==0.7.6
+pandas==1.5.3
+nltk==3.7
+spacy==3.5.1
+torch==1.13.1
+matplotlib==3.7.1
+seaborn==0.12.2
+transformers==4.28.1
+scikit-learn==1.2.2
